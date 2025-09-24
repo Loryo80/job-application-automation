@@ -242,7 +242,6 @@ The system calculates realistic fit scores based on:
 **Yassine Senhaji**
 AI Architect | LLM Specialist | Automation Expert
 
-- LinkedIn: [Profile]
 - GitHub: Loryo80
 - Focus: Multi-agent systems, RAG, LLMs
 
