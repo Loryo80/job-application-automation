@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:www.linkedin.com)",
+      "WebFetch(domain:jobs.lever.co)",
+      "WebSearch",
+      "WebFetch(domain:mistral.ai)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

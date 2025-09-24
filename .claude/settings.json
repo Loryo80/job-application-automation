@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(*)",
+      "Bash(git:*)",
+      "Bash(python:*)",
+      "Bash(npm:*)",
+      "Bash(npx:*)",
+      "Task(*)",
+      "Read(*)",
+      "Write(*)",
+      "MultiEdit(*)"
+    ],
+    "deny": [
+      "Read(./candidate-data/private/*)",
+      "Write(./.env*)",
+      "Bash(rm -rf:*)"
+    ],
+    "additionalDirectories": [
+      "../Documents/Resumes"
+    ]
+  },
+  "env": {
+    "PLAYWRIGHT_HEADLESS": "false",
+    "MAX_RETRIES": "3",
+    "CACHE_DURATION": "86400"
+  },
+  "enableAllProjectMcpServers": true,
+  "model": "opus",
+  "outputStyle": "Professional"
+}

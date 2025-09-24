@@ -1,0 +1,50 @@
+{
+  "profile_example": {
+    "personal_information": {
+      "name": "John Doe",
+      "location": "City, Country",
+      "contact": {
+        "phone": "+1234567890",
+        "email": "john.doe@example.com",
+        "github": "https://github.com/johndoe",
+        "linkedin": "linkedin.com/in/johndoe"
+      },
+      "languages": {
+        "English": "Native",
+        "Spanish": "Professional"
+      }
+    },
+    "professional_experience": [
+      {
+        "period": "2020 - Present",
+        "role": "Senior Software Engineer",
+        "company": "Tech Company",
+        "key_achievements": [
+          "Led development of microservices architecture",
+          "Reduced system latency by 40%",
+          "Mentored team of 5 junior developers"
+        ],
+        "technologies": ["Python", "AWS", "Docker", "Kubernetes"]
+      }
+    ],
+    "technical_skills": {
+      "programming": ["Python", "JavaScript", "Go"],
+      "frameworks": ["React", "Django", "FastAPI"],
+      "cloud": ["AWS", "Azure", "GCP"],
+      "databases": ["PostgreSQL", "MongoDB", "Redis"]
+    },
+    "education": [
+      {
+        "degree": "Master of Computer Science",
+        "institution": "University Name",
+        "year": "2018",
+        "gpa": "3.8/4.0"
+      }
+    ],
+    "certifications": [
+      "AWS Solutions Architect",
+      "Google Cloud Professional",
+      "Certified Kubernetes Administrator"
+    ]
+  }
+}

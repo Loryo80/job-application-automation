@@ -1,0 +1,62 @@
+{
+  "fit_score_example": {
+    "job_title": "Senior AI Engineer",
+    "company": "Example AI Company",
+    "overall_fit_score": 85,
+    "confidence_level": "high",
+    "scoring_breakdown": {
+      "hard_skills_match": {
+        "score": 30,
+        "max_score": 35,
+        "matched_skills": ["Python", "Machine Learning", "LLMs", "Docker"],
+        "missing_skills": ["Scala", "Spark"]
+      },
+      "experience_alignment": {
+        "score": 17,
+        "max_score": 20,
+        "years_required": 5,
+        "years_possessed": 7,
+        "relevant_experience": "Strong AI/ML background with production deployments"
+      },
+      "education_certifications": {
+        "score": 8,
+        "max_score": 10,
+        "meets_requirements": true,
+        "additional_value": "Relevant certifications in cloud platforms"
+      },
+      "soft_skills_compatibility": {
+        "score": 12,
+        "max_score": 15,
+        "cultural_fit": "good",
+        "communication": "excellent",
+        "leadership": "demonstrated"
+      },
+      "location_logistics": {
+        "score": 9,
+        "max_score": 10,
+        "remote_match": true,
+        "timezone_compatibility": "full_overlap"
+      },
+      "compensation_alignment": {
+        "score": 9,
+        "max_score": 10,
+        "within_range": true,
+        "growth_potential": "high"
+      }
+    },
+    "recommendation": "STRONG APPLY - High probability of success",
+    "application_strategy": {
+      "priority": "high",
+      "customization_needed": "moderate",
+      "key_talking_points": [
+        "Direct experience with LLM implementations",
+        "Proven track record in production AI systems",
+        "Strong cultural fit with innovation focus"
+      ],
+      "potential_concerns": [
+        "Limited experience with Scala",
+        "May need to learn Spark framework"
+      ]
+    }
+  }
+}

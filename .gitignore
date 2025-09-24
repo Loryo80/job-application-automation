@@ -1,0 +1,67 @@
+# Personal Data - NEVER commit these
+candidate-data/
+job-offers/
+logs/
+
+# Screenshots and personal documents
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.docx
+*.doc
+
+# Analysis outputs with personal information
+candidate-data/**/*-analysis.json
+candidate-data/**/*profile*.json
+candidate-data/**/*resume*.json
+candidate-data/**/complete-profile.json
+job-offers/**/*.json
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Node modules (if any)
+node_modules/
+
+# API keys and secrets
+.env
+.env.local
+config.ini
+secrets.json
+credentials.json
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*~
