@@ -238,12 +238,8 @@ The system calculates realistic fit scores based on:
 ✅ **Focus**: Apply only to relevant opportunities
 
 ## Author
-
-**Yassine Senhaji**
+Loryo80
 AI Architect | LLM Specialist | Automation Expert
-
-- LinkedIn: [Profile]
-- GitHub: Loryo80
 - Focus: Multi-agent systems, RAG, LLMs
 
 ## License
